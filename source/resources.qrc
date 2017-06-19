@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>weather-dish-300px.png</file>
+        <file>weather-map-pin-300px.png</file>
+        <file>weather-refresh-300px.png</file>
+        <file>weather-severe-alert-300px.png</file>
+        <file>weather-clear-300px.png</file>
+        <file>weather-pause-300px.png</file>
+        <file>weather-play-300px.png</file>
+        <file>weather-zoom-in-300px.png</file>
+        <file>weather-zoom-out-300px.png</file>
+        <file>weather-settings-300px.png</file>
+        <file>weather-dish-small-300px.png</file>
+    </qresource>
+    <qresource prefix="/gifs">
+        <file>weather-supercell.gif</file>
+    </qresource>
+    <qresource prefix="/splash">
+        <file>weather-QHWeather.png</file>
+    </qresource>
+    <qresource prefix="/json">
+        <file>weather-radars.json</file>
+    </qresource>
+</RCC>

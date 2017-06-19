@@ -1,0 +1,1170 @@
+{
+  "AK": [
+    {
+      "stateName": "Alaska",
+      "siteName": "Bethel",
+      "identifier": "ABC",
+      "latitude": 60.791987,
+      "longitude": -161.876539
+    },
+    {
+      "stateName": "Alaska",
+      "siteName": "Sitka/Biorka Island",
+      "identifier": "ACG",
+      "latitude": 56.85214,
+      "longitude": -135.552417
+    },
+    {
+      "stateName": "Alaska",
+      "siteName": "Nome",
+      "identifier": "AEC",
+      "latitude": 64.5114973,
+      "longitude": -165.2949071
+    },
+    {
+      "stateName": "Alaska",
+      "siteName": "Kenai",
+      "identifier": "AHG",
+      "latitude": 60.6156335,
+      "longitude": -151.2832296
+    },
+    {
+      "stateName": "Alaska",
+      "siteName": "Middleton Island",
+      "identifier": "AIH",
+      "latitude": 59.46194,
+      "longitude": -146.30111
+    },
+    {
+      "stateName": "Alaska",
+      "siteName": "King Salmon",
+      "identifier": "AKC",
+      "latitude": 58.6794558,
+      "longitude": -156.6293335
+    },
+    {
+      "stateName": "Alaska",
+      "siteName": "Fairbanks/Pedro Dome",
+      "identifier": "APD",
+      "latitude": 65.0351238,
+      "longitude": -147.5014222
+    }
+  ],
+  "AL": [
+    {
+      "stateName": "Alabama",
+      "siteName": "Birmingham",
+      "identifier": "BMX",
+      "latitude": 33.1722806,
+      "longitude": -86.7698425
+    },
+    {
+      "stateName": "Alabama",
+      "siteName": "Fort Rucker",
+      "identifier": "EOX",
+      "latitude": 31.4605622,
+      "longitude": -85.4592401
+    },
+    {
+      "stateName": "Alabama",
+      "siteName": "Huntsville",
+      "identifier": "HTX",
+      "latitude": 34.930508,
+      "longitude": -86.0837388
+    },
+    {
+      "stateName": "Alabama",
+      "siteName": "Mobile",
+      "identifier": "MOB",
+      "latitude": 30.6795378,
+      "longitude": -88.2397816
+    },
+    {
+      "stateName": "Alabama",
+      "siteName": "Maxwell AFB",
+      "identifier": "MXX",
+      "latitude": 32.5366608,
+      "longitude": -85.7897848
+    }
+  ],
+  "AR": [
+    {
+      "stateName": "Arkansas",
+      "siteName": "Little Rock",
+      "identifier": "LZK",
+      "latitude": 34.8365261,
+      "longitude": -92.2621697
+    },
+    {
+      "stateName": "Arkansas",
+      "siteName": "Fort Smith",
+      "identifier": "SRX",
+      "latitude": 35.2904423,
+      "longitude": -94.3619075
+    }
+  ],
+  "AZ": [
+    {
+      "stateName": "Arizona",
+      "siteName": "Tucson",
+      "identifier": "EMX",
+      "latitude": 31.8937186,
+      "longitude": -110.6304306
+    },
+    {
+      "stateName": "Arizona",
+      "siteName": "Flagstaff",
+      "identifier": "FSX",
+      "latitude": 34.574449,
+      "longitude": -111.198367
+    },
+    {
+      "stateName": "Arizona",
+      "siteName": "Phoenix",
+      "identifier": "IWA",
+      "latitude": 33.289111,
+      "longitude": -111.6700092
+    },
+    {
+      "stateName": "Arizona",
+      "siteName": "Yuma",
+      "identifier": "YUX",
+      "latitude": 32.4953477,
+      "longitude": -114.6567214
+    }
+  ],
+  "CA": [
+    {
+      "stateName": "California",
+      "siteName": "Beale AFB",
+      "identifier": "BBX",
+      "latitude": 39.4956958,
+      "longitude": -121.6316557
+    },
+    {
+      "stateName": "California",
+      "siteName": "Eureka",
+      "identifier": "BHX",
+      "latitude": 40.4986955,
+      "longitude": -124.2918867
+    },
+    {
+      "stateName": "California",
+      "siteName": "Sacramento",
+      "identifier": "DAX",
+      "latitude": 38.5011529,
+      "longitude": -121.6778487
+    },
+    {
+      "stateName": "California",
+      "siteName": "Edwards AFB",
+      "identifier": "EYX",
+      "latitude": 35.0979358,
+      "longitude": -117.5608832
+    },
+    {
+      "stateName": "California",
+      "siteName": "San Joaquin Valley",
+      "identifier": "HNX",
+      "latitude": 36.3142088,
+      "longitude": -119.6320903
+    },
+    {
+      "stateName": "California",
+      "siteName": "San Francisco",
+      "identifier": "MUX",
+      "latitude": 37.155152,
+      "longitude": -121.8984577
+    },
+    {
+      "stateName": "California",
+      "siteName": "San Diego",
+      "identifier": "NKX",
+      "latitude": 32.9189891,
+      "longitude": -117.041814
+    },
+    {
+      "stateName": "California",
+      "siteName": "Santa Ana Mountains",
+      "identifier": "SOX",
+      "latitude": 33.8176452,
+      "longitude": -117.6359743
+    },
+    {
+      "stateName": "California",
+      "siteName": "Vandenberg AFB",
+      "identifier": "VBX",
+      "latitude": 34.8383137,
+      "longitude": -120.3977805
+    },
+    {
+      "stateName": "California",
+      "siteName": "Los Angeles",
+      "identifier": "VTX",
+      "latitude": 34.4116386,
+      "longitude": -119.1795641
+    }
+  ],
+  "CO": [
+    {
+      "stateName": "Colorado",
+      "siteName": "Denver",
+      "identifier": "FTG",
+      "latitude": 39.7866156,
+      "longitude": -104.5458126
+    },
+    {
+      "stateName": "Colorado",
+      "siteName": "Grand Junction",
+      "identifier": "GJX",
+      "latitude": 39.0619824,
+      "longitude": -108.2137012
+    },
+    {
+      "stateName": "Colorado",
+      "siteName": "Pueblo",
+      "identifier": "PUX",
+      "latitude": 38.4595034,
+      "longitude": -104.1816223
+    }
+  ],
+  "DE": [
+    {
+      "stateName": "Delaware",
+      "siteName": "Dover AFB",
+      "identifier": "DOX",
+      "latitude": 38.8257651,
+      "longitude": -75.4400763
+    }
+  ],
+  "FL": [
+    {
+      "stateName": "Florida",
+      "siteName": "Miami",
+      "identifier": "AMX",
+      "latitude": 25.6111275,
+      "longitude": -80.412747
+    },
+    {
+      "stateName": "Florida",
+      "siteName": "Key West",
+      "identifier": "BYX",
+      "latitude": 24.5974996,
+      "longitude": -81.7032355
+    },
+    {
+      "stateName": "Florida",
+      "siteName": "Eglin AFB",
+      "identifier": "EVX",
+      "latitude": 30.5649908,
+      "longitude": -85.921559
+    },
+    {
+      "stateName": "Florida",
+      "siteName": "Jacksonville",
+      "identifier": "JAX",
+      "latitude": 30.4846878,
+      "longitude": -81.7018917
+    },
+    {
+      "stateName": "Florida",
+      "siteName": "Melbourne",
+      "identifier": "MLB",
+      "latitude": 28.1131808,
+      "longitude": -80.6540988
+    },
+    {
+      "stateName": "Florida",
+      "siteName": "Tampa",
+      "identifier": "TBW",
+      "latitude": 27.7054701,
+      "longitude": -82.40179
+    },
+    {
+      "stateName": "Florida",
+      "siteName": "Tallahassee",
+      "identifier": "TLH",
+      "latitude": 30.397568,
+      "longitude": -84.3289116
+    }
+  ],
+  "GA": [
+    {
+      "stateName": "Georgia",
+      "siteName": "Atlanta",
+      "identifier": "FFC",
+      "latitude": 33.3635771,
+      "longitude": -84.565866
+    },
+    {
+      "stateName": "Georgia",
+      "siteName": "Robins AFB",
+      "identifier": "JGX",
+      "latitude": 32.6755239,
+      "longitude": -83.3508575
+    },
+    {
+      "stateName": "Georgia",
+      "siteName": "Moody AFB",
+      "identifier": "VAX",
+      "latitude": 30.8903853,
+      "longitude": -83.0019021
+    }
+  ],
+  "HI": [
+    {
+      "stateName": "Hawaii",
+      "siteName": "Kauai",
+      "identifier": "HKI",
+      "latitude": 21.8938762,
+      "longitude": -159.5524585
+    },
+    {
+      "stateName": "Hawaii",
+      "siteName": "Kohala",
+      "identifier": "HKM",
+      "latitude": 20.1254606,
+      "longitude": -155.778054
+    },
+    {
+      "stateName": "Hawaii",
+      "siteName": "Molokai",
+      "identifier": "HMO",
+      "latitude": 21.1327531,
+      "longitude": -157.1802807
+    },
+    {
+      "stateName": "Hawaii",
+      "siteName": "South Shore",
+      "identifier": "HWA",
+      "latitude": 19.0950155,
+      "longitude": -155.5688846
+    }
+  ],
+  "IA": [
+    {
+      "stateName": "Iowa",
+      "siteName": "Des Moines",
+      "identifier": "DMX",
+      "latitude": 41.7311788,
+      "longitude": -93.7229235
+    },
+    {
+      "stateName": "Iowa",
+      "siteName": "Davenport",
+      "identifier": "DVN",
+      "latitude": 41.611556,
+      "longitude": -90.5809987
+    }
+  ],
+  "ID": [
+    {
+      "stateName": "Idaho",
+      "siteName": "Boise",
+      "identifier": "CBX",
+      "latitude": 43.4902104,
+      "longitude": -116.2360436
+    },
+    {
+      "stateName": "Idaho",
+      "siteName": "Pocatello/Idaho Falls",
+      "identifier": "SFX",
+      "latitude": 43.1055967,
+      "longitude": -112.6860487
+    }
+  ],
+  "IL": [
+    {
+      "stateName": "Illinois",
+      "siteName": "Lincoln",
+      "identifier": "ILX",
+      "latitude": 40.150544,
+      "longitude": -89.336842
+    },
+    {
+      "stateName": "Illinois",
+      "siteName": "Chicago",
+      "identifier": "LOT",
+      "latitude": 41.6044264,
+      "longitude": -88.084361
+    }
+  ],
+  "IN": [
+    {
+      "stateName": "Indiana",
+      "siteName": "Indianapolis",
+      "identifier": "IND",
+      "latitude": 39.7074962,
+      "longitude": -86.2803675
+    },
+    {
+      "stateName": "Indiana",
+      "siteName": "North Webster",
+      "identifier": "IWX",
+      "latitude": 41.3586356,
+      "longitude": -85.7000488
+    },
+    {
+      "stateName": "Indiana",
+      "siteName": "Owensville (Evansville)",
+      "identifier": "VWX",
+      "latitude": 38.2603901,
+      "longitude": -87.7246553
+    }
+  ],
+  "KS": [
+    {
+      "stateName": "Kansas",
+      "siteName": "Dodge City",
+      "identifier": "DDC",
+      "latitude": 37.7608043,
+      "longitude": -99.9688053
+    },
+    {
+      "stateName": "Kansas",
+      "siteName": "Goodland",
+      "identifier": "GLD",
+      "latitude": 39.3667737,
+      "longitude": -101.7004341
+    },
+    {
+      "stateName": "Kansas",
+      "siteName": "Wichita",
+      "identifier": "ICT",
+      "latitude": 37.6545724,
+      "longitude": -97.4431461
+    },
+    {
+      "stateName": "Kansas",
+      "siteName": "Topeka",
+      "identifier": "TWX",
+      "latitude": 38.996998,
+      "longitude": -96.232618
+    }
+  ],
+  "KY": [
+    {
+      "stateName": "Kentucky",
+      "siteName": "Fort Campbell",
+      "identifier": "HPX",
+      "latitude": 36.7368894,
+      "longitude": -87.2854328
+    },
+    {
+      "stateName": "Kentucky",
+      "siteName": "Jackson",
+      "identifier": "JKL",
+      "latitude": 37.590762,
+      "longitude": -83.313039
+    },
+    {
+      "stateName": "Kentucky",
+      "siteName": "Louisville",
+      "identifier": "LVX",
+      "latitude": 37.9753058,
+      "longitude": -85.9438455
+    },
+    {
+      "stateName": "Kentucky",
+      "siteName": "Paducah",
+      "identifier": "PAH",
+      "latitude": 37.0683618,
+      "longitude": -88.7720257
+    }
+  ],
+  "LA": [
+    {
+      "stateName": "Louisiana",
+      "siteName": "Lake Charles",
+      "identifier": "LCH",
+      "latitude": 30.125382,
+      "longitude": -93.2161188
+    },
+    {
+      "stateName": "Louisiana",
+      "siteName": "New Orleans",
+      "identifier": "LIX",
+      "latitude": 30.3367133,
+      "longitude": -89.8256618
+    },
+    {
+      "stateName": "Louisiana",
+      "siteName": "Fort Polk",
+      "identifier": "POE",
+      "latitude": 31.1556923,
+      "longitude": -92.9762596
+    },
+    {
+      "stateName": "Louisiana",
+      "siteName": "Shreveport",
+      "identifier": "SHV",
+      "latitude": 32.450813,
+      "longitude": -93.8412774
+    }
+  ],
+  "MA": [
+    {
+      "stateName": "Massachusetts",
+      "siteName": "Boston",
+      "identifier": "BOX",
+      "latitude": 41.9558919,
+      "longitude": -71.1369681
+    }
+  ],
+  "ME": [
+    {
+      "stateName": "Maine",
+      "siteName": "Loring AFB",
+      "identifier": "CBW",
+      "latitude": 46.0391944,
+      "longitude": -67.8066033
+    },
+    {
+      "stateName": "Maine",
+      "siteName": "Portland",
+      "identifier": "GYX",
+      "latitude": 43.8913555,
+      "longitude": -70.2565545
+    }
+  ],
+  "MI": [
+    {
+      "stateName": "Michigan",
+      "siteName": "Gaylord",
+      "identifier": "APX",
+      "latitude": 44.907106,
+      "longitude": -84.719817
+    },
+    {
+      "stateName": "Michigan",
+      "siteName": "Detroit/Pontiac",
+      "identifier": "DTX",
+      "latitude": 42.6999677,
+      "longitude": -83.471809
+    },
+    {
+      "stateName": "Michigan",
+      "siteName": "Grand Rapids",
+      "identifier": "GRR",
+      "latitude": 42.893872,
+      "longitude": -85.5449206
+    },
+    {
+      "stateName": "Michigan",
+      "siteName": "Marquette",
+      "identifier": "MQT",
+      "latitude": 46.5311443,
+      "longitude": -87.5487131
+    }
+  ],
+  "MN": [
+    {
+      "stateName": "Minnesota",
+      "siteName": "Duluth",
+      "identifier": "DLH",
+      "latitude": 46.8368569,
+      "longitude": -92.2097433
+    },
+    {
+      "stateName": "Minnesota",
+      "siteName": "Minneapolis/St. Paul",
+      "identifier": "MPX",
+      "latitude": 44.8488029,
+      "longitude": -93.5654873
+    }
+  ],
+  "MO": [
+    {
+      "stateName": "Missouri",
+      "siteName": "Kansas City",
+      "identifier": "EAX",
+      "latitude": 38.8102231,
+      "longitude": -94.2644924
+    },
+    {
+      "stateName": "Missouri",
+      "siteName": "St. Louis",
+      "identifier": "LSX",
+      "latitude": 38.6986863,
+      "longitude": -90.682877
+    },
+    {
+      "stateName": "Missouri",
+      "siteName": "Springfield",
+      "identifier": "SGF",
+      "latitude": 37.235223,
+      "longitude": -93.4006011
+    }
+  ],
+  "MS": [
+    {
+      "stateName": "Mississippi",
+      "siteName": "Brandon/Jackson",
+      "identifier": "DGX",
+      "latitude": 32.2797358,
+      "longitude": -89.9846309
+    },
+    {
+      "stateName": "Mississippi",
+      "siteName": "Columbus AFB",
+      "identifier": "GWX",
+      "latitude": 33.8967796,
+      "longitude": -88.3293915
+    }
+  ],
+  "MT": [
+    {
+      "stateName": "Montana",
+      "siteName": "Billings",
+      "identifier": "BLX",
+      "latitude": 45.8537632,
+      "longitude": -108.6068165
+    },
+    {
+      "stateName": "Montana",
+      "siteName": "Glasgow",
+      "identifier": "GGW",
+      "latitude": 48.2064536,
+      "longitude": -106.6252971
+    },
+    {
+      "stateName": "Montana",
+      "siteName": "Missoula",
+      "identifier": "MSX",
+      "latitude": 47.0412971,
+      "longitude": -113.9864373
+    },
+    {
+      "stateName": "Montana",
+      "siteName": "Great Falls",
+      "identifier": "TFX",
+      "latitude": 47.4595023,
+      "longitude": -111.3855368
+    }
+  ],
+  "NC": [
+    {
+      "stateName": "North Carolina",
+      "siteName": "Wilmington",
+      "identifier": "LTX",
+      "latitude": 33.9891631,
+      "longitude": -78.4291059
+    },
+    {
+      "stateName": "North Carolina",
+      "siteName": "Morehead City",
+      "identifier": "MHX",
+      "latitude": 34.7759313,
+      "longitude": -76.8762571
+    },
+    {
+      "stateName": "North Carolina",
+      "siteName": "Raleigh/Durham",
+      "identifier": "RAX",
+      "latitude": 35.6654967,
+      "longitude": -78.4897855
+    }
+  ],
+  "ND": [
+    {
+      "stateName": "North Dakota",
+      "siteName": "Bismarck",
+      "identifier": "BIS",
+      "latitude": 46.7709329,
+      "longitude": -100.7605532
+    },
+    {
+      "stateName": "North Dakota",
+      "siteName": "Minot AFB",
+      "identifier": "MBX",
+      "latitude": 48.39303,
+      "longitude": -100.8644378
+    },
+    {
+      "stateName": "North Dakota",
+      "siteName": "Grand Forks (Mayville)",
+      "identifier": "MVX",
+      "latitude": 47.5279417,
+      "longitude": -97.3256654
+    }
+  ],
+  "NE": [
+    {
+      "stateName": "Nebraska",
+      "siteName": "North Platte",
+      "identifier": "LNX",
+      "latitude": 41.9579623,
+      "longitude": -100.5759609
+    },
+    {
+      "stateName": "Nebraska",
+      "siteName": "Omaha",
+      "identifier": "OAX",
+      "latitude": 41.3202803,
+      "longitude": -96.3667971
+    },
+    {
+      "stateName": "Nebraska",
+      "siteName": "Grand Island/Hastings",
+      "identifier": "UEX",
+      "latitude": 40.320966,
+      "longitude": -98.4418559
+    }
+  ],
+  "NM": [
+    {
+      "stateName": "New Mexico",
+      "siteName": "Albuquerque",
+      "identifier": "ABX",
+      "latitude": 35.1497579,
+      "longitude": -106.8239576
+    },
+    {
+      "stateName": "New Mexico",
+      "siteName": "Cannon AFB",
+      "identifier": "FDX",
+      "latitude": 34.6341569,
+      "longitude": -103.6186427
+    },
+    {
+      "stateName": "New Mexico",
+      "siteName": "Holloman AFB",
+      "identifier": "HDX",
+      "latitude": 33.0768844,
+      "longitude": -106.1200923
+    }
+  ],
+  "NV": [
+    {
+      "stateName": "Nevada",
+      "siteName": "Las Vegas",
+      "identifier": "ESX",
+      "latitude": 35.7012894,
+      "longitude": -114.8918277
+    },
+    {
+      "stateName": "Nevada",
+      "siteName": "Elko",
+      "identifier": "LRX",
+      "latitude": 40.7396933,
+      "longitude": -116.8025529
+    },
+    {
+      "stateName": "Nevada",
+      "siteName": "Reno",
+      "identifier": "RGX",
+      "latitude": 39.7541931,
+      "longitude": -119.4620597
+    }
+  ],
+  "NY": [
+    {
+      "stateName": "New York",
+      "siteName": "Binghamton",
+      "identifier": "BGM",
+      "latitude": 42.1997045,
+      "longitude": -75.9847015
+    },
+    {
+      "stateName": "New York",
+      "siteName": "Buffalo",
+      "identifier": "BUF",
+      "latitude": 42.9488055,
+      "longitude": -78.7369108
+    },
+    {
+      "stateName": "New York",
+      "siteName": "Albany",
+      "identifier": "ENX",
+      "latitude": 42.5865699,
+      "longitude": -74.0639877
+    },
+    {
+      "stateName": "New York",
+      "siteName": "New York City",
+      "identifier": "OKX",
+      "latitude": 40.8655093,
+      "longitude": -72.8638548
+    },
+    {
+      "stateName": "New York",
+      "siteName": "Montague",
+      "identifier": "TYX",
+      "latitude": 43.7556319,
+      "longitude": -75.6799918
+    }
+  ],
+  "OH": [
+    {
+      "stateName": "Ohio",
+      "siteName": "Cleveland",
+      "identifier": "CLE",
+      "latitude": 41.4131875,
+      "longitude": -81.8597451
+    },
+    {
+      "stateName": "Ohio",
+      "siteName": "Wilmington",
+      "identifier": "ILN",
+      "latitude": 39.5083314,
+      "longitude": -83.8176925
+    }
+  ],
+  "OK": [
+    {
+      "stateName": "Oklahoma",
+      "siteName": "Frederick",
+      "identifier": "FDR",
+      "latitude": 34.3620014,
+      "longitude": -98.9766884
+    },
+    {
+      "stateName": "Oklahoma",
+      "siteName": "Tulsa",
+      "identifier": "INX",
+      "latitude": 36.1750977,
+      "longitude": -95.5642802
+    },
+    {
+      "stateName": "Oklahoma",
+      "siteName": "Oklahoma City",
+      "identifier": "TLX",
+      "latitude": 35.3333873,
+      "longitude": -97.2778255
+    },
+    {
+      "stateName": "Oklahoma",
+      "siteName": "Vance AFB",
+      "identifier": "VNX",
+      "latitude": 36.7406166,
+      "longitude": -98.1279409
+    }
+  ],
+  "OR": [
+    {
+      "stateName": "Oregon",
+      "siteName": "Medford",
+      "identifier": "MAX",
+      "latitude": 42.0810766,
+      "longitude": -122.7173334
+    },
+    {
+      "stateName": "Oregon",
+      "siteName": "Pendleton",
+      "identifier": "PDT",
+      "latitude": 45.6906118,
+      "longitude": -118.8529301
+    },
+    {
+      "stateName": "Oregon",
+      "siteName": "Portland",
+      "identifier": "RTX",
+      "latitude": 45.7150308,
+      "longitude": -122.9650542
+    }
+  ],
+  "PA": [
+    {
+      "stateName": "Pennsylvania",
+      "siteName": "State College",
+      "identifier": "CCX",
+      "latitude": 40.9228521,
+      "longitude": -78.0038738
+    },
+    {
+      "stateName": "Pennsylvania",
+      "siteName": "Philadelphia",
+      "identifier": "DIX",
+      "latitude": 39.9470885,
+      "longitude": -74.4108027
+    },
+    {
+      "stateName": "Pennsylvania",
+      "siteName": "Pittsburgh",
+      "identifier": "PBZ",
+      "latitude": 40.5316842,
+      "longitude": -80.2179515
+    }
+  ],
+  "SC": [
+    {
+      "stateName": "South Carolina",
+      "siteName": "Columbia",
+      "identifier": "CAE",
+      "latitude": 33.9487579,
+      "longitude": -81.1184281
+    },
+    {
+      "stateName": "South Carolina",
+      "siteName": "Charleston",
+      "identifier": "CLX",
+      "latitude": 32.6554866,
+      "longitude": -81.0423124
+    },
+    {
+      "stateName": "South Carolina",
+      "siteName": "Greer",
+      "identifier": "GSP",
+      "latitude": 34.8833435,
+      "longitude": -82.2200757
+    }
+  ],
+  "SD": [
+    {
+      "stateName": "South Dakota",
+      "siteName": "Aberdeen",
+      "identifier": "ABR",
+      "latitude": 45.4558185,
+      "longitude": -98.4132046
+    },
+    {
+      "stateName": "South Dakota",
+      "siteName": "Sioux Falls",
+      "identifier": "FSD",
+      "latitude": 43.5877467,
+      "longitude": -96.7293674
+    },
+    {
+      "stateName": "South Dakota",
+      "siteName": "Rapid City",
+      "identifier": "UDX",
+      "latitude": 44.1248485,
+      "longitude": -102.8298157
+    }
+  ],
+  "TN": [
+    {
+      "stateName": "Tennessee",
+      "siteName": "Knoxville/Tri Cities",
+      "identifier": "MRX",
+      "latitude": 36.168538,
+      "longitude": -83.401779
+    },
+    {
+      "stateName": "Tennessee",
+      "siteName": "Memphis",
+      "identifier": "NQA",
+      "latitude": 35.3447802,
+      "longitude": -89.8734534
+    },
+    {
+      "stateName": "Tennessee",
+      "siteName": "Nashville",
+      "identifier": "OHX",
+      "latitude": 36.2472389,
+      "longitude": -86.5625185
+    }
+  ],
+  "TX": [
+    {
+      "stateName": "Texas",
+      "siteName": "Amarillo",
+      "identifier": "AMA",
+      "latitude": 35.2334827,
+      "longitude": -101.7092478
+    },
+    {
+      "stateName": "Texas",
+      "siteName": "Brownsville",
+      "identifier": "BRO",
+      "latitude": 25.9159979,
+      "longitude": -97.4189526
+    },
+    {
+      "stateName": "Texas",
+      "siteName": "Corpus Christi",
+      "identifier": "CRP",
+      "latitude": 27.7840203,
+      "longitude": -97.511234
+    },
+    {
+      "stateName": "Texas",
+      "siteName": "Laughlin AFB",
+      "identifier": "DFX",
+      "latitude": 29.2730823,
+      "longitude": -100.2802312
+    },
+    {
+      "stateName": "Texas",
+      "siteName": "Dyess AFB",
+      "identifier": "DYX",
+      "latitude": 32.5386009,
+      "longitude": -99.2542863
+    },
+    {
+      "stateName": "Texas",
+      "siteName": "El Paso",
+      "identifier": "EPZ",
+      "latitude": 31.8731115,
+      "longitude": -106.697942
+    },
+    {
+      "stateName": "Texas",
+      "siteName": "Austin/San Antonio",
+      "identifier": "EWX",
+      "latitude": 29.7039802,
+      "longitude": -98.028506
+    },
+    {
+      "stateName": "Texas",
+      "siteName": "Dallas/Ft. Worth",
+      "identifier": "FWS",
+      "latitude": 32.5730186,
+      "longitude": -97.3031911
+    },
+    {
+      "stateName": "Texas",
+      "siteName": "Fort Hood",
+      "identifier": "GRK",
+      "latitude": 30.7217637,
+      "longitude": -97.3829627
+    },
+    {
+      "stateName": "Texas",
+      "siteName": "Houston/Galveston",
+      "identifier": "HGX",
+      "latitude": 29.4718835,
+      "longitude": -95.0788593
+    },
+    {
+      "stateName": "Texas",
+      "siteName": "Lubbock",
+      "identifier": "LBB",
+      "latitude": 33.6541242,
+      "longitude": -101.814149
+    },
+    {
+      "stateName": "Texas",
+      "siteName": "Midland/Odessa",
+      "identifier": "MAF",
+      "latitude": 31.9433953,
+      "longitude": -102.1894383
+    },
+    {
+      "stateName": "Texas",
+      "siteName": "San Angelo",
+      "identifier": "SJT",
+      "latitude": 31.3712815,
+      "longitude": -100.4925227
+    }
+  ],
+  "UT": [
+    {
+      "stateName": "Utah",
+      "siteName": "Cedar City",
+      "identifier": "ICX",
+      "latitude": 37.5931771,
+      "longitude": -112.8637719
+    },
+    {
+      "stateName": "Utah",
+      "siteName": "Salt Lake City",
+      "identifier": "MTX",
+      "latitude": 41.2627795,
+      "longitude": -112.4480081
+    }
+  ],
+  "VA": [
+    {
+      "stateName": "Virginia",
+      "siteName": "Norfolk/Richmond",
+      "identifier": "AKQ",
+      "latitude": 36.9840475,
+      "longitude": -77.007342
+    },
+    {
+      "stateName": "Virginia",
+      "siteName": "Roanoke",
+      "identifier": "FCX",
+      "latitude": 37.0242098,
+      "longitude": -80.2736664
+    },
+    {
+      "stateName": "Virginia",
+      "siteName": "Sterling",
+      "identifier": "LWX",
+      "latitude": 38.9753957,
+      "longitude": -77.4778444
+    }
+  ],
+  "VT": [
+    {
+      "stateName": "Vermont",
+      "siteName": "Burlington",
+      "identifier": "CXX",
+      "latitude": 44.5109941,
+      "longitude": -73.166424
+    }
+  ],
+  "WA": [
+    {
+      "stateName": "Washington",
+      "siteName": "Seattle/Tacoma",
+      "identifier": "ATX",
+      "latitude": 48.1945614,
+      "longitude": -122.4957508
+    },
+    {
+      "stateName": "Washington",
+      "siteName": "Langley Hill",
+      "identifier": "LGX",
+      "latitude": 47.116806,
+      "longitude": -124.10625
+    },
+    {
+      "stateName": "Washington",
+      "siteName": "Spokane",
+      "identifier": "OTX",
+      "latitude": 47.6803744,
+      "longitude": -117.6267797
+    }
+  ],
+  "WI": [
+    {
+      "stateName": "Wisconsin",
+      "siteName": "La Crosse",
+      "identifier": "ARX",
+      "latitude": 43.822766,
+      "longitude": -91.1915767
+    },
+    {
+      "stateName": "Wisconsin",
+      "siteName": "Green Bay",
+      "identifier": "GRB",
+      "latitude": 44.4984644,
+      "longitude": -88.111124
+    },
+    {
+      "stateName": "Wisconsin",
+      "siteName": "Milwaukee",
+      "identifier": "MKX",
+      "latitude": 42.9678286,
+      "longitude": -88.5506335
+    }
+  ],
+  "WV": [
+    {
+      "stateName": "West Virginia",
+      "siteName": "Charleston",
+      "identifier": "RLX",
+      "latitude": 38.3110763,
+      "longitude": -81.7229015
+    }
+  ],
+  "WY": [
+    {
+      "stateName": "Wyoming",
+      "siteName": "Cheyenne",
+      "identifier": "CYS",
+      "latitude": 41.1519308,
+      "longitude": -104.8060325
+    },
+    {
+      "stateName": "Wyoming",
+      "siteName": "Riverton",
+      "identifier": "RIW",
+      "latitude": 43.0660779,
+      "longitude": -108.4773731
+    }
+  ]
+}

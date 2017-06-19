@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>AlertsWindow</class>
+ <widget class="QDialog" name="AlertsWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>850</width>
+    <height>600</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Active Alerts</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">QPushButton
+{
+	border-width: 0px;
+	border-radius: 3px;
+	font: 16pt &quot;MS Shell Dlg 2&quot;;
+}
+
+QPushButton:enabled
+{
+  color: black;
+  background-color: #87ceeb;
+}
+
+QPushButton:disabled
+{
+  color: gray;
+}
+
+QPushButton:hover
+{
+ color: black;
+ background-color: #1e90ff;
+}
+
+QPushButton:pressed
+{
+  color: white;
+  background-color: #0000cd;
+}
+</string>
+  </property>
+  <layout class="QHBoxLayout" name="horizontalLayout">
+   <item>
+    <widget class="QTextEdit" name="alertsTextEdit"/>
+   </item>
+  </layout>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
